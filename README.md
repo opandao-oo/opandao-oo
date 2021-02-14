@@ -8,11 +8,16 @@
 
 ---
 
-                                                  F O L L O W  U S 📞 
+                                                  F O L L O W  A N D  C O N T A C T  U S 📞 
 
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/opandao_oo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=opandao_oo)
+
+[<img align="left" alt=" opandao-oo  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" opandao-oo  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ---
 
@@ -20,10 +25,7 @@
  
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="opandao-oo's GitHub Stats" src="https://github-readme-stats.opandao-oo.vercel.app/api?username=opandao-oo&show_icons=true&hide_border=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opandao-oo&show_icons=true&theme=dark)
 
 ---
 
@@ -59,10 +61,13 @@
 <br />
 <br />
 
+</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+[twitter]: https://twitter.com/opandao_oo
+[linkedin]: https://www.linkedin.com/in/opandao-oo-0a48611b9/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
