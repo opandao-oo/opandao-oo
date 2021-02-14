@@ -14,11 +14,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/opandao_oo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=opandao_oo)
 
-<br />
-
-
 ---
-                                                       ⭐ S T A T S ⭐
+
+                                                     ⭐ S T A T S ⭐
+ 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opandao-oo&show_icons=true&theme=dark)
