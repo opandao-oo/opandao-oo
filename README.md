@@ -8,7 +8,7 @@
 
 ---
 
-                                                  F O L L O W  A N D  C O N T A C T  U S 📞 
+                                               F O L L O W  A N D  C O N T A C T  U S 📞 
 
 ---
 
