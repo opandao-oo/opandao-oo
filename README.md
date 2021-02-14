@@ -1,4 +1,4 @@
-                       『o』『P』『A』『N』『D』『A』『o』  (っ◔◡◔)  『P』『H』『I』『S』『H』『I』『N』『G』
+                                            『o』『P』『A』『N』『D』『A』『o』
 
 ---
                                       ❤️❤️❤️GitHub Profile (@opandao-oo)❤️❤️❤️
