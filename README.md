@@ -12,7 +12,9 @@
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/opandao_oo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=opandao_oo)
+![Github Follow](https://img.shields.io/github/followers/opandao-oo?label=Follow%20On%20GitHub&logo=github&style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/opandao_oo?label=Follow%20On%20Twitter&style=social)
 
 [<img align="left" alt=" opandao-oo  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" opandao-oo  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -63,7 +65,6 @@
 
 </details>
 
-[twitter]: https://twitter.com/opandao_oo
 [linkedin]: https://www.linkedin.com/in/opandao-oo-0a48611b9/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
