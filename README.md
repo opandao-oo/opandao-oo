@@ -12,11 +12,11 @@
 
 ---
 
-[<img align="left" alt="opandao_oo | Twitter" width="22px" src="https://twitter.com/opandao_oo" />][twitter]
+[<img align="left" alt="opandao_oo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter]
 [<img align="left" alt="opandao-oo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="opandao-oo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br />
 
 
 ---
