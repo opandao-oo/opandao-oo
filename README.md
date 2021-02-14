@@ -12,12 +12,13 @@
 
 ---
 
-![Github Follow](https://img.shields.io/github/followers/opandao-oo?label=Follow%20On%20GitHub&logo=github&style=social)
+ <a href="https://github.com/opandao-oo">
+        <img src="https://img.shields.io/github/followers/opandao-oo?label=follow%20%40opandao-oo&style=social&logo=github" /></a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/opandao_oo?label=Follow%20On%20Twitter&style=social)
 
-[<img align="left" alt=" opandao-oo  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" opandao-oo  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ <a href="https://twitter.com/intent/follow?screen_name=opandao_oo">
+        <img src="https://img.shields.io/twitter/follow/opandao_oo?style=social&logo=twitter"
+            alt="Follow on Twitter"></a>
 
 <br />
 
