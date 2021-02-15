@@ -20,9 +20,8 @@
         <img src="https://img.shields.io/twitter/follow/opandao_oo?style=social&logo=twitter"
             alt="Follow on Twitter"></a>
  
- <a href="https://www.linkedin.com/in/opandao-oo-0a48611b9">
-        <img src="https://img.shields.io/endpoint?label=follow%20%40opandao-oo&logo=linkedin&style=social&url=opandao-oo-0a48611b9" /></a>
-
+ <a href="https://www.linkedin.com/in/opandao-oo-0a48611b9/">
+        <img src="https://img.shields.io/endpoint?label=follow%20%40opandao-oo&logo=linkedin&style=social&url=https://www.linkedin.com/in/opandao-oo-0a48611b9/"  /></a>
 
 <br />
 
