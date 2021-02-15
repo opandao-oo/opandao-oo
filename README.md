@@ -14,11 +14,15 @@
 
  <a href="https://github.com/opandao-oo">
         <img src="https://img.shields.io/github/followers/opandao-oo?label=follow%20%40opandao-oo&style=social&logo=github" /></a>
-
+        
 
  <a href="https://twitter.com/intent/follow?screen_name=opandao_oo">
         <img src="https://img.shields.io/twitter/follow/opandao_oo?style=social&logo=twitter"
             alt="Follow on Twitter"></a>
+ 
+ <a href="https://www.linkedin.com/in/opandao-oo-0a48611b9">
+        <img src="https://img.shields.io/endpoint?label=follow%20%40opandao-oo&logo=linkedin&style=social&url=opandao-oo-0a48611b9" /></a>
+
 
 <br />
 
