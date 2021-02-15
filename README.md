@@ -74,4 +74,11 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
+======================================================================================
+
+                                                      ♥ S U P P O R T ♥
+                                                     
+======================================================================================
+
+<a href="https://paypal.me/pandagithub?locale.x=en_US"><img src="blue.svg" height="40"></a>  
 
