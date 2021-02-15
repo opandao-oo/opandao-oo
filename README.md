@@ -35,7 +35,7 @@
 
 ---
 
-                                           S P O T I F Y  P L A Y I N G 🎧
+                                            S P O T I F Y  P L A Y I N G 🎧
 
 ---
 
@@ -43,7 +43,7 @@
 
 ---
 
-                                           L A N G U A G E  A N D  T O O L S
+                                            L A N G U A G E  A N D  T O O L S
 
 ---
 
